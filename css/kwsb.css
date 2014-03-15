@@ -1,5 +1,6 @@
-/* @license
- * MyFonts Webfont Build ID 2639616, 2013-09-09T10:20:22-0400
+/**
+ * @license
+ * MyFonts Webfont Build ID 2770086, 2014-03-14T21:20:06-0400
  * 
  * The fonts listed in this notice are subject to the End User License
  * Agreement(s) entered into by the website owner. All other parties are 
@@ -7,25 +8,24 @@
  * 
  * You may obtain a valid license at the URLs below.
  * 
- *
  * Webfont: Miso by Mårten Nettelbladt
  * URL: http://www.myfonts.com/fonts/martennettelbladt/miso/regular/
- * Copyright: Copyright (c) M&#x00E5;rten Nettelbladt, 2006. All rights reserved.
  * Licensed pageviews: Unlimited
- *
- * Webfont: Miso Light by Mårten Nettelbladt
- * URL: http://www.myfonts.com/fonts/martennettelbladt/miso/light/
- * Licensed pageviews: Unlimited
- *
+ * 
  * Webfont: Miso Bold by Mårten Nettelbladt
  * URL: http://www.myfonts.com/fonts/martennettelbladt/miso/bold/
  * Licensed pageviews: Unlimited
- *
  * 
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=2639616
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=2632137
+ * Webfont: Miso Light by Mårten Nettelbladt
+ * URL: http://www.myfonts.com/fonts/martennettelbladt/miso/light/
+ * Licensed pageviews: Unlimited
  * 
- * © 2013 MyFonts Inc
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&amp;buildid=2770086
+ * Webfonts copyright: Copyright (c) M&amp;#x00E5;rten Nettelbladt, 2006. All rights
+ * reserved.
+ * 
+ * © 2014 MyFonts Inc
 */
 
 @font-face {font-family: 'Miso-Bold';src: url('../fonts/Miso-Bold.eot');src: url('../fonts/Miso-Bold.eot?#iefix') format('embedded-opentype'),url('../fonts/Miso-Bold.woff') format('woff'),url('../fonts/Miso-Bold.ttf') format('truetype');}
