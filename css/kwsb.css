@@ -44,9 +44,6 @@ h1, h2, h3 {
 .header-inner {
   overflow: hidden;
   margin-top:1em;
-  -webkit-transform: rotate(-5deg);
-  -moz-transform: rotate(-5deg);
-  transform: rotate(-5deg);
 }
 
 .header-container .background {
@@ -56,15 +53,6 @@ h1, h2, h3 {
   left: -50%;
   height: 240px;
   background-color: #E9FFFE;
-}
-
-.header-container .background .bee-queen {
-  position: absolute;
-  left: 50%;
-  bottom: -40px;
-  -webkit-transform: rotate(5deg);
-  -moz-transform: rotate(5deg);
-  transform: rotate(5deg);
 }
 
 .header-row {
@@ -79,8 +67,7 @@ h1, h2, h3 {
   text-align: left;
   font-family: 'Miso-Bold', Helvetica, sans-serif !important;
   font-weight: normal !important;
-  text-transform: uppercase;
-  font-size: 64px;
+  font-size: 80px;
   line-height: 52px;
 }
 
@@ -240,9 +227,6 @@ h1, h2, h3 {
   bottom: -10%;
   height: 650px;
   background-color: #FDFE73;
-  -webkit-transform: rotate(-5deg);
-  -moz-transform: rotate(-5deg);
-  transform: rotate(-5deg);
   z-index: -1;
 }
 
