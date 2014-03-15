@@ -28,9 +28,44 @@
  * © 2014 MyFonts Inc
 */
 
-@font-face {font-family: 'Miso-Bold';src: url('../fonts/Miso-Bold.eot');src: url('../fonts/Miso-Bold.eot?#iefix') format('embedded-opentype'),url('../fonts/Miso-Bold.woff') format('woff'),url('../fonts/Miso-Bold.ttf') format('truetype');}
-@font-face {font-family: 'Miso-Light';src: url('../fonts/Miso-Light.eot');src: url('../fonts/Miso-Light.eot?#iefix') format('embedded-opentype'),url('../fonts/Miso-Light.woff') format('woff'),url('../fonts/Miso-Light.ttf') format('truetype');}
-@font-face {font-family: 'Miso-Regular';src: url('../fonts/Miso-Regular.eot');src: url('../fonts/Miso-Regular.eot?#iefix') format('embedded-opentype'),url('../fonts/Miso-Regular.woff') format('woff'),url('../fonts/Miso-Regular.ttf') format('truetype');}
+/**
+ * @license
+ * MyFonts Webfont Build ID 2770090, 2014-03-14T21:31:18-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Miso by Mårten Nettelbladt
+ * URL: http://www.myfonts.com/fonts/martennettelbladt/miso/regular/
+ * Licensed pageviews: Unlimited
+ * 
+ * Webfont: Miso Bold by Mårten Nettelbladt
+ * URL: http://www.myfonts.com/fonts/martennettelbladt/miso/bold/
+ * Licensed pageviews: Unlimited
+ * 
+ * Webfont: Miso Light by Mårten Nettelbladt
+ * URL: http://www.myfonts.com/fonts/martennettelbladt/miso/light/
+ * Licensed pageviews: Unlimited
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2770090
+ * Webfonts copyright: Copyright (c) M&#x00E5;rten Nettelbladt, 2006. All rights reserved.
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+
+
+
+  
+@font-face {font-family: 'Miso';src: url('../fonts/webfonts/2A44AA_0_0.eot');src: url('webfonts/2A44AA_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A44AA_0_0.woff') format('woff'),url('webfonts/2A44AA_0_0.ttf') format('truetype');}
+
+@font-face {font-family: 'Miso-Bold';src: url('../fonts/webfonts/2A44AA_1_0.eot');src: url('webfonts/2A44AA_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A44AA_1_0.woff') format('woff'),url('webfonts/2A44AA_1_0.ttf') format('truetype');}
+
+@font-face {font-family: 'Miso-Light';src: url('../fonts/webfonts/2A44AA_2_0.eot');src: url('webfonts/2A44AA_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2A44AA_2_0.woff') format('woff'),url('webfonts/2A44AA_2_0.ttf') format('truetype');}
 
 h1, h2, h3 {
   font-family: 'Miso-Bold', Helvetica, sans-serif !important;
