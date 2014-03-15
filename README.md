@@ -1,4 +1,1 @@
-kwsb
-====
-
-Kunst Werk Stadt Berlin e.V.
+# Sonntagsimkern im Bienengärtchen
