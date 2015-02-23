@@ -26,14 +26,30 @@
  * License: http://www.myfonts.com/viewlicense?type=web&buildid=2632137
  * 
  * © 2013 MyFonts Inc
+ *
+ * Webfont: FMPointifax-B by FontMeister
+ * URL: http://www.myfonts.com/fonts/fontmeister/fm-pointifax/B/
+ * Copyright: Copyright (c) 2012 by Fontmeister. All rights reserved.
+ * Licensed pageviews: 20,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2977976
+ * 
+ * © 2015 MyFonts Inc
 */
 
 @font-face {font-family: 'Miso-Bold';src: url('../fonts/Miso-Bold.eot');src: url('../fonts/Miso-Bold.eot?#iefix') format('embedded-opentype'),url('../fonts/Miso-Bold.woff') format('woff'),url('../fonts/Miso-Bold.ttf') format('truetype');}
 @font-face {font-family: 'Miso-Light';src: url('../fonts/Miso-Light.eot');src: url('../fonts/Miso-Light.eot?#iefix') format('embedded-opentype'),url('../fonts/Miso-Light.woff') format('woff'),url('../fonts/Miso-Light.ttf') format('truetype');}
 @font-face {font-family: 'Miso-Regular';src: url('../fonts/Miso-Regular.eot');src: url('../fonts/Miso-Regular.eot?#iefix') format('embedded-opentype'),url('../fonts/Miso-Regular.woff') format('woff'),url('../fonts/Miso-Regular.ttf') format('truetype');}
+@font-face {font-family: 'FMPointifax-B';src: url('../fonts/2D70B8_0_0.eot');src: url('../fonts/2D70B8_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/FM-Pointifax-B.ttf') format('truetype');}
 
 h1, h2, h3 {
   font-family: 'Miso-Bold', Helvetica, sans-serif !important;
+  font-weight: normal !important;
+}
+
+h2 {
+  font-family: 'FMPointifax-B', Helvetica, sans-serif !important;
   font-weight: normal !important;
 }
 
